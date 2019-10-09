@@ -64,6 +64,7 @@
 		77FB5425234E1FF300FCAA59 /* LSGCDTimer */ = {
 			isa = PBXGroup;
 			children = (
+				77FB5442234E2B9600FCAA59 /* Timer */,
 				77FB5426234E1FF300FCAA59 /* AppDelegate.h */,
 				77FB5427234E1FF300FCAA59 /* AppDelegate.m */,
 				77FB5429234E1FF300FCAA59 /* SceneDelegate.h */,
@@ -75,10 +76,17 @@
 				77FB5434234E1FF500FCAA59 /* LaunchScreen.storyboard */,
 				77FB5437234E1FF500FCAA59 /* Info.plist */,
 				77FB5438234E1FF500FCAA59 /* main.m */,
+			);
+			path = LSGCDTimer;
+			sourceTree = "<group>";
+		};
+		77FB5442234E2B9600FCAA59 /* Timer */ = {
+			isa = PBXGroup;
+			children = (
 				77FB543F234E209400FCAA59 /* LSGCDTimer.h */,
 				77FB5440234E209400FCAA59 /* LSGCDTimer.m */,
 			);
-			path = LSGCDTimer;
+			path = Timer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
